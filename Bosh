@@ -1,0 +1,3 @@
+mkdir tms-project
+cd tms-project
+git init
